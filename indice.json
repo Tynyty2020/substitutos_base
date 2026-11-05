@@ -1,0 +1,94 @@
+{
+  "formato": 1,
+  "gerado_em": "2026-11-05",
+  "pacotes": [
+    {
+      "id": "bjt",
+      "nome": "Transistores BJT",
+      "tipo": "componentes",
+      "versao": 1,
+      "data": "2026-11-05",
+      "arquivo": "pacotes/bjt-1.csv.gz",
+      "tamanho": 991,
+      "sha256": "dc55b0093352b7c8758b01af61ba991ea9641be40479627b3801112fecf92a2f",
+      "componentes": 3
+    },
+    {
+      "id": "ci",
+      "nome": "Circuitos integrados",
+      "tipo": "componentes",
+      "versao": 1,
+      "data": "2026-11-05",
+      "arquivo": "pacotes/ci-1.csv.gz",
+      "tamanho": 11673,
+      "sha256": "e50f46c5bf7fa1e8324a565630435d3836eb7f274ac6837b2b2d79a61bf29d56",
+      "componentes": 27
+    },
+    {
+      "id": "diodo",
+      "nome": "Diodos",
+      "tipo": "componentes",
+      "versao": 1,
+      "data": "2026-11-05",
+      "arquivo": "pacotes/diodo-1.csv.gz",
+      "tamanho": 4643,
+      "sha256": "03ffed71c32ac8a6b397723916c184ccc3a0b92717913f856a1230d868a10b33",
+      "componentes": 15
+    },
+    {
+      "id": "mosfet",
+      "nome": "MOSFETs",
+      "tipo": "componentes",
+      "versao": 1,
+      "data": "2026-11-05",
+      "arquivo": "pacotes/mosfet-1.csv.gz",
+      "tamanho": 2528,
+      "sha256": "aa558b5828c6ca5c96dcd3fe03789f5d45184d4076aefa99f9c030b4887cf0e5",
+      "componentes": 7
+    },
+    {
+      "id": "passivo",
+      "nome": "Componentes passivos",
+      "tipo": "componentes",
+      "versao": 1,
+      "data": "2026-11-05",
+      "arquivo": "pacotes/passivo-1.csv.gz",
+      "tamanho": 14218,
+      "sha256": "a443d162c2d65fb802475a6fe6eb10569bf9de128c117b30cd05a4112a08a55c",
+      "componentes": 44
+    },
+    {
+      "id": "smd",
+      "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
+      "tipo": "componentes",
+      "versao": 1,
+      "data": "2026-11-05",
+      "arquivo": "pacotes/smd-1.csv.gz",
+      "tamanho": 6425,
+      "sha256": "0b0dfa94cdceeb3e423b34eea5db195dcf4d49c29b7248580d4b110d11e0541f",
+      "componentes": 15
+    },
+    {
+      "id": "tiristor",
+      "nome": "TRIAC, SCR, IGBT e DIAC",
+      "tipo": "componentes",
+      "versao": 1,
+      "data": "2026-11-05",
+      "arquivo": "pacotes/tiristor-1.csv.gz",
+      "tamanho": 8725,
+      "sha256": "1c2b8b04a2faa7f7617e96311c3af498faa75ddfd0fee92f7722c1c87b5c336f",
+      "componentes": 16
+    },
+    {
+      "id": "situacao_comercial",
+      "nome": "Situação comercial de todos os componentes",
+      "tipo": "situacao_comercial",
+      "versao": 1,
+      "data": "2026-11-05",
+      "arquivo": "pacotes/situacao_comercial-1.csv.gz",
+      "tamanho": 1339,
+      "sha256": "d20f1c1107831f8c05d1f8de8d0eb02f12df002c8a4f09f376b0daff6c757110",
+      "componentes": 127
+    }
+  ]
+}
