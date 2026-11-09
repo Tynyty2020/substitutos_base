@@ -28,11 +28,11 @@
       "id": "diodo",
       "nome": "Diodos",
       "tipo": "componentes",
-      "versao": 3,
+      "versao": 4,
       "data": "2026-11-09",
-      "arquivo": "pacotes/diodo-3.csv.gz",
-      "tamanho": 28456,
-      "sha256": "aa9b6e284628faa2bb88686b5209a1e9adf3e461c43c7a08125672f3749995a0",
+      "arquivo": "pacotes/diodo-4.csv.gz",
+      "tamanho": 28633,
+      "sha256": "2a72438065af85af19a33996a59b84d4eee20e65f0511f84eef5697fb8a02b2a",
       "componentes": 258
     },
     {
