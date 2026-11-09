@@ -1,17 +1,17 @@
 {
   "formato": 1,
-  "gerado_em": "2026-11-07",
+  "gerado_em": "2026-11-09",
   "pacotes": [
     {
       "id": "bjt",
       "nome": "Transistores BJT",
       "tipo": "componentes",
-      "versao": 2,
-      "data": "2026-11-07",
-      "arquivo": "pacotes/bjt-2.csv.gz",
-      "tamanho": 1907,
-      "sha256": "0d7d4f1909b25ff22d05f10f07ef41051cf529f020b000280631cffe0718aff1",
-      "componentes": 5
+      "versao": 3,
+      "data": "2026-11-09",
+      "arquivo": "pacotes/bjt-3.csv.gz",
+      "tamanho": 3956,
+      "sha256": "aa9384a4332d1c4803061039f75eb997ab3a4dce8091aa3dfc486c9555bad5c6",
+      "componentes": 18
     },
     {
       "id": "ci",
@@ -28,12 +28,12 @@
       "id": "diodo",
       "nome": "Diodos",
       "tipo": "componentes",
-      "versao": 1,
-      "data": "2026-11-05",
-      "arquivo": "pacotes/diodo-1.csv.gz",
-      "tamanho": 4643,
-      "sha256": "03ffed71c32ac8a6b397723916c184ccc3a0b92717913f856a1230d868a10b33",
-      "componentes": 15
+      "versao": 2,
+      "data": "2026-11-09",
+      "arquivo": "pacotes/diodo-2.csv.gz",
+      "tamanho": 25272,
+      "sha256": "525f83979f64ff6e077e335be7821f4621d74c1f94ba8ceeb1d25620180d51e0",
+      "componentes": 228
     },
     {
       "id": "mosfet",
@@ -61,12 +61,12 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 1,
-      "data": "2026-11-05",
-      "arquivo": "pacotes/smd-1.csv.gz",
-      "tamanho": 6425,
-      "sha256": "0b0dfa94cdceeb3e423b34eea5db195dcf4d49c29b7248580d4b110d11e0541f",
-      "componentes": 15
+      "versao": 2,
+      "data": "2026-11-09",
+      "arquivo": "pacotes/smd-2.csv.gz",
+      "tamanho": 6943,
+      "sha256": "b9510fe6de91955d5221e7457316d2bf85f9fc497a7e1bbaf086f7ec5f79df43",
+      "componentes": 18
     },
     {
       "id": "tiristor",
@@ -83,12 +83,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 2,
-      "data": "2026-11-07",
-      "arquivo": "pacotes/situacao_comercial-2.csv.gz",
-      "tamanho": 1355,
-      "sha256": "baa3b11bca4ddd2d009ced538023e6a268ad328c2c73fb83f526ae49a49cbce7",
-      "componentes": 129
+      "versao": 3,
+      "data": "2026-11-09",
+      "arquivo": "pacotes/situacao_comercial-3.csv.gz",
+      "tamanho": 1930,
+      "sha256": "48192e4843da729475ee3aa3fb14405ba4d5ecd2cc58395017fc30da7ea68073",
+      "componentes": 358
     }
   ]
 }
