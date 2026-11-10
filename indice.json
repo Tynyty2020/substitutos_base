@@ -83,23 +83,23 @@
       "id": "tiristor",
       "nome": "TRIAC, SCR, IGBT e DIAC",
       "tipo": "componentes",
-      "versao": 2,
+      "versao": 3,
       "data": "2026-11-10",
-      "arquivo": "pacotes/tiristor-2.csv.gz",
-      "tamanho": 9165,
-      "sha256": "66d877e5d6c7b96fc2a891d595e305e0f7190ff40c6e520ed9662388f065aba1",
-      "componentes": 19
+      "arquivo": "pacotes/tiristor-3.csv.gz",
+      "tamanho": 16898,
+      "sha256": "66a7a2bc3c21f529dd7daadca4726a9f8b2219fba77bff0766fd57333275103b",
+      "componentes": 60
     },
     {
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 9,
+      "versao": 10,
       "data": "2026-11-10",
-      "arquivo": "pacotes/situacao_comercial-9.csv.gz",
-      "tamanho": 2445,
-      "sha256": "a5196031066e269fde25d46d42dafb3b9f8bb56b5ba613e01328a491dd0e17ec",
-      "componentes": 458
+      "arquivo": "pacotes/situacao_comercial-10.csv.gz",
+      "tamanho": 2566,
+      "sha256": "528c88baf0c3974de3d2bab66ffcbf032940e1d4de8a1113fb797b1f8091ef73",
+      "componentes": 499
     }
   ]
 }
