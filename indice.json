@@ -6,23 +6,23 @@
       "id": "bjt",
       "nome": "Transistores BJT",
       "tipo": "componentes",
-      "versao": 6,
+      "versao": 7,
       "data": "2026-11-10",
-      "arquivo": "pacotes/bjt-6.csv.gz",
-      "tamanho": 6159,
-      "sha256": "782e2b2eb061fb4daf788d65c58e18709602f8417aa78552c74fe6cd89b462da",
-      "componentes": 23
+      "arquivo": "pacotes/bjt-7.csv.gz",
+      "tamanho": 7284,
+      "sha256": "f2ceb8d057bef111f6b16af82d970bba4819495fd13a8c81be7b3bc72ed9919c",
+      "componentes": 27
     },
     {
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 16,
+      "versao": 17,
       "data": "2026-11-10",
-      "arquivo": "pacotes/ci-16.csv.gz",
-      "tamanho": 33794,
-      "sha256": "d796152c4be18da1372f4036708eaf10434d905acacc5915404038d71e9f865d",
-      "componentes": 85
+      "arquivo": "pacotes/ci-17.csv.gz",
+      "tamanho": 35465,
+      "sha256": "03f4b1ec4992c9a749c36fb448a1e98b45792cb5321a82be6d58bc65cd5d184b",
+      "componentes": 88
     },
     {
       "id": "diodo",
@@ -134,12 +134,12 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 4,
+      "versao": 5,
       "data": "2026-11-10",
-      "arquivo": "pacotes/smd-4.csv.gz",
-      "tamanho": 10163,
-      "sha256": "d7bb6990e8b573e4c01cd3f77fff29d2694ae721550070775300bdc030ef4455",
-      "componentes": 34
+      "arquivo": "pacotes/smd-5.csv.gz",
+      "tamanho": 10935,
+      "sha256": "ba5dc0fe179a85e7e70a5d6ab9d00301a80d3e4f2d2814bea8b709ddf78ad0b4",
+      "componentes": 35
     },
     {
       "id": "tiristor",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 18,
+      "versao": 19,
       "data": "2026-11-10",
-      "arquivo": "pacotes/situacao_comercial-18.csv.gz",
-      "tamanho": 3182,
-      "sha256": "e5296d86b14bd75fcdc2a84577d464240cf48979f61b2c60477c884cf6e4198d",
-      "componentes": 632
+      "arquivo": "pacotes/situacao_comercial-19.csv.gz",
+      "tamanho": 3227,
+      "sha256": "898c4fd26e60ebaffe033cc3479045dd8321c74636604100832826e7b1b4ad87",
+      "componentes": 640
     }
   ]
 }
