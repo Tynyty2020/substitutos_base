@@ -17,12 +17,12 @@
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 8,
+      "versao": 9,
       "data": "2026-11-10",
-      "arquivo": "pacotes/ci-8.csv.gz",
-      "tamanho": 21645,
-      "sha256": "f86219613fe415a2214d5381ab43023a50f366f35ba9f2b730f368da92940ebf",
-      "componentes": 53
+      "arquivo": "pacotes/ci-9.csv.gz",
+      "tamanho": 22909,
+      "sha256": "165b608d0fa07b88f193025a0979664a1a3cf6fda8b91289507e51977247c37d",
+      "componentes": 55
     },
     {
       "id": "diodo",
@@ -39,12 +39,12 @@
       "id": "mosfet",
       "nome": "MOSFETs",
       "tipo": "componentes",
-      "versao": 1,
-      "data": "2026-11-05",
-      "arquivo": "pacotes/mosfet-1.csv.gz",
-      "tamanho": 2528,
-      "sha256": "aa558b5828c6ca5c96dcd3fe03789f5d45184d4076aefa99f9c030b4887cf0e5",
-      "componentes": 7
+      "versao": 2,
+      "data": "2026-11-10",
+      "arquivo": "pacotes/mosfet-2.csv.gz",
+      "tamanho": 2757,
+      "sha256": "048b672e3ebc3657a03db3febf9b039cba1a435813e511334963705d01c8f241",
+      "componentes": 8
     },
     {
       "id": "passivo",
@@ -56,6 +56,17 @@
       "tamanho": 14218,
       "sha256": "a443d162c2d65fb802475a6fe6eb10569bf9de128c117b30cd05a4112a08a55c",
       "componentes": 44
+    },
+    {
+      "id": "rele",
+      "nome": "Relés",
+      "tipo": "componentes",
+      "versao": 1,
+      "data": "2026-11-10",
+      "arquivo": "pacotes/rele-1.csv.gz",
+      "tamanho": 5486,
+      "sha256": "4d0dc65b1c91e9c362d09ac785b28416c8d797f1b51095de0d79e6a4e8d97c4e",
+      "componentes": 32
     },
     {
       "id": "smd",
@@ -83,12 +94,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 7,
+      "versao": 8,
       "data": "2026-11-10",
-      "arquivo": "pacotes/situacao_comercial-7.csv.gz",
-      "tamanho": 2260,
-      "sha256": "cc5a82907dc3c40502384742089ab2d0422466366e0010416c77c009413f51e8",
-      "componentes": 418
+      "arquivo": "pacotes/situacao_comercial-8.csv.gz",
+      "tamanho": 2412,
+      "sha256": "5d267ed684adfd817badcf8aa20d6762b89e25280bafbaac2b4a415a0d8ae17f",
+      "componentes": 453
     }
   ]
 }
