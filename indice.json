@@ -50,12 +50,74 @@
       "id": "passivo",
       "nome": "Componentes passivos",
       "tipo": "componentes",
-      "versao": 2,
+      "versao": 3,
       "data": "2026-11-10",
-      "arquivo": "pacotes/passivo-2.csv.gz",
-      "tamanho": 17506,
-      "sha256": "c27d700ee32242edfb0109b44a0fc197409e6217eede0ad35e3c41d7b55bc255",
-      "componentes": 73
+      "arquivo": "pacotes/passivo-3.csv.gz",
+      "tamanho": 17001,
+      "sha256": "a4e42d2c85f93bfc643301b9088285c33ba7999d63dcdcbc2780dac14de423b5",
+      "componentes": 70,
+      "removidos": [
+        {
+          "codigo": "RTO020FR5000",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F40R00",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F50R00",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F80R00",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F140R0",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F400R0",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F500R0",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F800R0",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F50000",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F50001",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F32002",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F40002",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F45002",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F50002",
+          "fabricante": "Vishay Sfernice"
+        },
+        {
+          "codigo": "RTO020F55002",
+          "fabricante": "Vishay Sfernice"
+        }
+      ]
     },
     {
       "id": "rele",
@@ -94,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 14,
+      "versao": 15,
       "data": "2026-11-10",
-      "arquivo": "pacotes/situacao_comercial-14.csv.gz",
-      "tamanho": 2917,
-      "sha256": "7bf0bec988a65d7b4582f6131398e54c020079f250255f6376b5d0de9cef2420",
-      "componentes": 568
+      "arquivo": "pacotes/situacao_comercial-15.csv.gz",
+      "tamanho": 2911,
+      "sha256": "fb22a42dbb6b28a8aff8dd7edc68531b5e15978f4ba88a0db4990b0552c62ce9",
+      "componentes": 565
     }
   ]
 }
