@@ -17,12 +17,12 @@
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 12,
+      "versao": 13,
       "data": "2026-11-10",
-      "arquivo": "pacotes/ci-12.csv.gz",
-      "tamanho": 26716,
-      "sha256": "49c58e800f2ee65a3034e852e6f3eda17cc2b1ccc3d3fdeb4d596b3b58518254",
-      "componentes": 70
+      "arquivo": "pacotes/ci-13.csv.gz",
+      "tamanho": 29219,
+      "sha256": "1c3407400fa6038771571b9030951214c0c3744e48ab035f12b218740f884552",
+      "componentes": 78
     },
     {
       "id": "diodo",
@@ -72,12 +72,12 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 3,
+      "versao": 4,
       "data": "2026-11-10",
-      "arquivo": "pacotes/smd-3.csv.gz",
-      "tamanho": 8334,
-      "sha256": "cc23b29be9bf22d09cd84fdd7246ff66dea6eed4be33c4b1ba9fe6939d01a3bd",
-      "componentes": 20
+      "arquivo": "pacotes/smd-4.csv.gz",
+      "tamanho": 10163,
+      "sha256": "d7bb6990e8b573e4c01cd3f77fff29d2694ae721550070775300bdc030ef4455",
+      "componentes": 34
     },
     {
       "id": "tiristor",
@@ -94,12 +94,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 12,
+      "versao": 13,
       "data": "2026-11-10",
-      "arquivo": "pacotes/situacao_comercial-12.csv.gz",
-      "tamanho": 2694,
-      "sha256": "6a3be704fcc3a7594241273b5b5b9a1a5b632ab61ebc74f2c03c318a0d1b0008",
-      "componentes": 517
+      "arquivo": "pacotes/situacao_comercial-13.csv.gz",
+      "tamanho": 2814,
+      "sha256": "6a74482f5ff79d9dfc784db375550cf279a3671157f5f02b318addeecfcb5976",
+      "componentes": 539
     }
   ]
 }
