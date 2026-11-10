@@ -50,12 +50,12 @@
       "id": "passivo",
       "nome": "Componentes passivos",
       "tipo": "componentes",
-      "versao": 1,
-      "data": "2026-11-05",
-      "arquivo": "pacotes/passivo-1.csv.gz",
-      "tamanho": 14218,
-      "sha256": "a443d162c2d65fb802475a6fe6eb10569bf9de128c117b30cd05a4112a08a55c",
-      "componentes": 44
+      "versao": 2,
+      "data": "2026-11-10",
+      "arquivo": "pacotes/passivo-2.csv.gz",
+      "tamanho": 17506,
+      "sha256": "c27d700ee32242edfb0109b44a0fc197409e6217eede0ad35e3c41d7b55bc255",
+      "componentes": 73
     },
     {
       "id": "rele",
@@ -94,12 +94,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 13,
+      "versao": 14,
       "data": "2026-11-10",
-      "arquivo": "pacotes/situacao_comercial-13.csv.gz",
-      "tamanho": 2814,
-      "sha256": "6a74482f5ff79d9dfc784db375550cf279a3671157f5f02b318addeecfcb5976",
-      "componentes": 539
+      "arquivo": "pacotes/situacao_comercial-14.csv.gz",
+      "tamanho": 2917,
+      "sha256": "7bf0bec988a65d7b4582f6131398e54c020079f250255f6376b5d0de9cef2420",
+      "componentes": 568
     }
   ]
 }
