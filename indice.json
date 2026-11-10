@@ -17,11 +17,11 @@
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 9,
+      "versao": 10,
       "data": "2026-11-10",
-      "arquivo": "pacotes/ci-9.csv.gz",
-      "tamanho": 22909,
-      "sha256": "165b608d0fa07b88f193025a0979664a1a3cf6fda8b91289507e51977247c37d",
+      "arquivo": "pacotes/ci-10.csv.gz",
+      "tamanho": 22961,
+      "sha256": "f1bb5f6dc67f65bc1a5067f23e1b7d0c5823e42ad479cc3e026450c810e488f6",
       "componentes": 55
     },
     {
@@ -39,11 +39,11 @@
       "id": "mosfet",
       "nome": "MOSFETs",
       "tipo": "componentes",
-      "versao": 2,
+      "versao": 3,
       "data": "2026-11-10",
-      "arquivo": "pacotes/mosfet-2.csv.gz",
-      "tamanho": 2757,
-      "sha256": "048b672e3ebc3657a03db3febf9b039cba1a435813e511334963705d01c8f241",
+      "arquivo": "pacotes/mosfet-3.csv.gz",
+      "tamanho": 2765,
+      "sha256": "90ea73766656f0f06ed0bcb017aa0ca5092a2b225768cb267f4b541582f2cbb7",
       "componentes": 8
     },
     {
@@ -72,34 +72,34 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 2,
-      "data": "2026-11-09",
-      "arquivo": "pacotes/smd-2.csv.gz",
-      "tamanho": 6943,
-      "sha256": "b9510fe6de91955d5221e7457316d2bf85f9fc497a7e1bbaf086f7ec5f79df43",
-      "componentes": 18
+      "versao": 3,
+      "data": "2026-11-10",
+      "arquivo": "pacotes/smd-3.csv.gz",
+      "tamanho": 8334,
+      "sha256": "cc23b29be9bf22d09cd84fdd7246ff66dea6eed4be33c4b1ba9fe6939d01a3bd",
+      "componentes": 20
     },
     {
       "id": "tiristor",
       "nome": "TRIAC, SCR, IGBT e DIAC",
       "tipo": "componentes",
-      "versao": 1,
-      "data": "2026-11-05",
-      "arquivo": "pacotes/tiristor-1.csv.gz",
-      "tamanho": 8725,
-      "sha256": "1c2b8b04a2faa7f7617e96311c3af498faa75ddfd0fee92f7722c1c87b5c336f",
-      "componentes": 16
+      "versao": 2,
+      "data": "2026-11-10",
+      "arquivo": "pacotes/tiristor-2.csv.gz",
+      "tamanho": 9165,
+      "sha256": "66d877e5d6c7b96fc2a891d595e305e0f7190ff40c6e520ed9662388f065aba1",
+      "componentes": 19
     },
     {
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 8,
+      "versao": 9,
       "data": "2026-11-10",
-      "arquivo": "pacotes/situacao_comercial-8.csv.gz",
-      "tamanho": 2412,
-      "sha256": "5d267ed684adfd817badcf8aa20d6762b89e25280bafbaac2b4a415a0d8ae17f",
-      "componentes": 453
+      "arquivo": "pacotes/situacao_comercial-9.csv.gz",
+      "tamanho": 2445,
+      "sha256": "a5196031066e269fde25d46d42dafb3b9f8bb56b5ba613e01328a491dd0e17ec",
+      "componentes": 458
     }
   ]
 }
