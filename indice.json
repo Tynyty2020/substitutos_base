@@ -6,23 +6,23 @@
       "id": "bjt",
       "nome": "Transistores BJT",
       "tipo": "componentes",
-      "versao": 5,
+      "versao": 6,
       "data": "2026-11-10",
-      "arquivo": "pacotes/bjt-5.csv.gz",
-      "tamanho": 5623,
-      "sha256": "4b0b326fef236047588488d764d97c039628b388662c510784c0110a8aa81e99",
-      "componentes": 22
+      "arquivo": "pacotes/bjt-6.csv.gz",
+      "tamanho": 6159,
+      "sha256": "782e2b2eb061fb4daf788d65c58e18709602f8417aa78552c74fe6cd89b462da",
+      "componentes": 23
     },
     {
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 13,
+      "versao": 14,
       "data": "2026-11-10",
-      "arquivo": "pacotes/ci-13.csv.gz",
-      "tamanho": 29219,
-      "sha256": "1c3407400fa6038771571b9030951214c0c3744e48ab035f12b218740f884552",
-      "componentes": 78
+      "arquivo": "pacotes/ci-14.csv.gz",
+      "tamanho": 29871,
+      "sha256": "fec7f1c37f0cd3998fdedc5bcd08ff7028216dd2c722fcb9bf32f137984fb812",
+      "componentes": 79
     },
     {
       "id": "diodo",
@@ -145,23 +145,23 @@
       "id": "tiristor",
       "nome": "TRIAC, SCR, IGBT e DIAC",
       "tipo": "componentes",
-      "versao": 3,
+      "versao": 4,
       "data": "2026-11-10",
-      "arquivo": "pacotes/tiristor-3.csv.gz",
-      "tamanho": 16898,
-      "sha256": "66a7a2bc3c21f529dd7daadca4726a9f8b2219fba77bff0766fd57333275103b",
-      "componentes": 60
+      "arquivo": "pacotes/tiristor-4.csv.gz",
+      "tamanho": 17557,
+      "sha256": "8cb5c92950eaf56146c31a683c467d5e57e123982739330d87163e39389355a8",
+      "componentes": 64
     },
     {
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 15,
+      "versao": 16,
       "data": "2026-11-10",
-      "arquivo": "pacotes/situacao_comercial-15.csv.gz",
-      "tamanho": 2911,
-      "sha256": "fb22a42dbb6b28a8aff8dd7edc68531b5e15978f4ba88a0db4990b0552c62ce9",
-      "componentes": 565
+      "arquivo": "pacotes/situacao_comercial-16.csv.gz",
+      "tamanho": 2937,
+      "sha256": "6db27baf6641a9c998639b0622227859b11ddbf0af18e2f3b7ce23915f01bd66",
+      "componentes": 571
     }
   ]
 }
