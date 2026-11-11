@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "gerado_em": "2026-11-10",
+  "gerado_em": "2026-11-11",
   "pacotes": [
     {
       "id": "bjt",
@@ -28,34 +28,34 @@
       "id": "diodo",
       "nome": "Diodos",
       "tipo": "componentes",
-      "versao": 5,
-      "data": "2026-11-10",
-      "arquivo": "pacotes/diodo-5.csv.gz",
-      "tamanho": 33036,
-      "sha256": "7a833b551e5b9d3bec2d0b4ef8bbced920b50690377bda1fbf2d9dc361c40e13",
-      "componentes": 280
+      "versao": 6,
+      "data": "2026-11-11",
+      "arquivo": "pacotes/diodo-6.csv.gz",
+      "tamanho": 34154,
+      "sha256": "f3a4b6f542d6b4459ecfd702568a775bba25fbad279ca48ec8aa63182d51cbf0",
+      "componentes": 287
     },
     {
       "id": "mosfet",
       "nome": "MOSFETs",
       "tipo": "componentes",
-      "versao": 5,
-      "data": "2026-11-10",
-      "arquivo": "pacotes/mosfet-5.csv.gz",
-      "tamanho": 4158,
-      "sha256": "205f3168dc81fa8d69cb8c3dfb6a1838b73520a4a140d739b8cc98d0544fb97c",
-      "componentes": 11
+      "versao": 6,
+      "data": "2026-11-11",
+      "arquivo": "pacotes/mosfet-6.csv.gz",
+      "tamanho": 5567,
+      "sha256": "b0b0ee1a6b3771174f0b8fb3282133010423e4291fcaa7ade82f686197315632",
+      "componentes": 13
     },
     {
       "id": "passivo",
       "nome": "Componentes passivos",
       "tipo": "componentes",
-      "versao": 5,
-      "data": "2026-11-10",
-      "arquivo": "pacotes/passivo-5.csv.gz",
-      "tamanho": 26340,
-      "sha256": "a446a8e772c48e5a64f8eaf5a61b8961d60a7b3c0cd5143475cd49f2869b6f4d",
-      "componentes": 121,
+      "versao": 6,
+      "data": "2026-11-11",
+      "arquivo": "pacotes/passivo-6.csv.gz",
+      "tamanho": 26908,
+      "sha256": "763a2ef80d68b261f41e87319a49565dddb80056aea4ad805d2739ac42003864",
+      "componentes": 122,
       "removidos": [
         {
           "codigo": "RTO020FR5000",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 20,
-      "data": "2026-11-10",
-      "arquivo": "pacotes/situacao_comercial-20.csv.gz",
-      "tamanho": 3348,
-      "sha256": "b2fa93f605eb732fce1ad0d3eeebd8261adb94b22786b2e7060075b8750f837e",
-      "componentes": 664
+      "versao": 21,
+      "data": "2026-11-11",
+      "arquivo": "pacotes/situacao_comercial-21.csv.gz",
+      "tamanho": 3413,
+      "sha256": "ac4540fa5e2c63b907c7fe27af8f7bc77a754edce1581c715197666a4ddfdd6f",
+      "componentes": 674
     }
   ]
 }
