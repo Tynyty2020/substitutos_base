@@ -6,23 +6,23 @@
       "id": "bjt",
       "nome": "Transistores BJT",
       "tipo": "componentes",
-      "versao": 7,
-      "data": "2026-11-10",
-      "arquivo": "pacotes/bjt-7.csv.gz",
-      "tamanho": 7284,
-      "sha256": "f2ceb8d057bef111f6b16af82d970bba4819495fd13a8c81be7b3bc72ed9919c",
-      "componentes": 27
+      "versao": 8,
+      "data": "2026-11-11",
+      "arquivo": "pacotes/bjt-8.csv.gz",
+      "tamanho": 8463,
+      "sha256": "0c2f07b4a7fad030d9932fd9a2e74e6ad4b6d1971b1cf76d0f17e30f80fa54f5",
+      "componentes": 29
     },
     {
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 20,
+      "versao": 21,
       "data": "2026-11-11",
-      "arquivo": "pacotes/ci-20.csv.gz",
-      "tamanho": 43062,
-      "sha256": "88dcc563c6e1c1947270fb29631bd178455c19ce501627f088371bc38cd186d2",
-      "componentes": 102
+      "arquivo": "pacotes/ci-21.csv.gz",
+      "tamanho": 43808,
+      "sha256": "5b23c495c1ee1521b2c7f0e5a949916dd52945f6fd8f56b86670ff8a22685c71",
+      "componentes": 103
     },
     {
       "id": "diodo",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 24,
+      "versao": 25,
       "data": "2026-11-11",
-      "arquivo": "pacotes/situacao_comercial-24.csv.gz",
-      "tamanho": 3767,
-      "sha256": "104e9303cc5cb693691c8a7b108d4c79a84891625201df6e919eb97b4196c7a6",
-      "componentes": 762
+      "arquivo": "pacotes/situacao_comercial-25.csv.gz",
+      "tamanho": 3798,
+      "sha256": "d3370e0f7a876672a200bedd274dc06e1a7b600b598aa2ec31e129b35afb56f5",
+      "componentes": 765
     }
   ]
 }
