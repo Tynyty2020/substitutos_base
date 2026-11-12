@@ -1,28 +1,28 @@
 {
   "formato": 1,
-  "gerado_em": "2026-11-11",
+  "gerado_em": "2026-11-12",
   "pacotes": [
     {
       "id": "bjt",
       "nome": "Transistores BJT",
       "tipo": "componentes",
-      "versao": 8,
-      "data": "2026-11-11",
-      "arquivo": "pacotes/bjt-8.csv.gz",
-      "tamanho": 8463,
-      "sha256": "0c2f07b4a7fad030d9932fd9a2e74e6ad4b6d1971b1cf76d0f17e30f80fa54f5",
-      "componentes": 29
+      "versao": 9,
+      "data": "2026-11-12",
+      "arquivo": "pacotes/bjt-9.csv.gz",
+      "tamanho": 9162,
+      "sha256": "2dd4741e5bc92db035fcab3b1260039029de8cef250f137f6befd920dffab68b",
+      "componentes": 31
     },
     {
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 21,
-      "data": "2026-11-11",
-      "arquivo": "pacotes/ci-21.csv.gz",
-      "tamanho": 43808,
-      "sha256": "5b23c495c1ee1521b2c7f0e5a949916dd52945f6fd8f56b86670ff8a22685c71",
-      "componentes": 103
+      "versao": 22,
+      "data": "2026-11-12",
+      "arquivo": "pacotes/ci-22.csv.gz",
+      "tamanho": 44174,
+      "sha256": "4abdfb0ffe9a09d34465cbc84b090adbc8d4eea625cbc7991c594a8b0e75457b",
+      "componentes": 104
     },
     {
       "id": "diodo",
@@ -50,12 +50,12 @@
       "id": "passivo",
       "nome": "Componentes passivos",
       "tipo": "componentes",
-      "versao": 7,
-      "data": "2026-11-11",
-      "arquivo": "pacotes/passivo-7.csv.gz",
-      "tamanho": 32948,
-      "sha256": "65f5348def3538f55fb3b85a0e69a15d76faa012b25500b441cab1ba8facf4b1",
-      "componentes": 198,
+      "versao": 8,
+      "data": "2026-11-12",
+      "arquivo": "pacotes/passivo-8.csv.gz",
+      "tamanho": 46079,
+      "sha256": "b6c290caab0c57bf4ccce84d73874d5a74dae50329ef5e463ca520944f28d745",
+      "componentes": 394,
       "removidos": [
         {
           "codigo": "RTO020FR5000",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 25,
-      "data": "2026-11-11",
-      "arquivo": "pacotes/situacao_comercial-25.csv.gz",
-      "tamanho": 3798,
-      "sha256": "d3370e0f7a876672a200bedd274dc06e1a7b600b598aa2ec31e129b35afb56f5",
-      "componentes": 765
+      "versao": 26,
+      "data": "2026-11-12",
+      "arquivo": "pacotes/situacao_comercial-26.csv.gz",
+      "tamanho": 4364,
+      "sha256": "63dbf97d33775b4b58060d46810517839c97aa8abdaa1d16028b4d7490c58ac7",
+      "componentes": 964
     }
   ]
 }
