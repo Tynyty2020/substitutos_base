@@ -6,12 +6,12 @@
       "id": "bjt",
       "nome": "Transistores BJT",
       "tipo": "componentes",
-      "versao": 9,
+      "versao": 10,
       "data": "2026-11-12",
-      "arquivo": "pacotes/bjt-9.csv.gz",
-      "tamanho": 9162,
-      "sha256": "2dd4741e5bc92db035fcab3b1260039029de8cef250f137f6befd920dffab68b",
-      "componentes": 31
+      "arquivo": "pacotes/bjt-10.csv.gz",
+      "tamanho": 10433,
+      "sha256": "f64cb301fe79815d2ae52ed1c0c6432535b7fea2e17d6a2795dae57acf18bce6",
+      "componentes": 33
     },
     {
       "id": "ci",
@@ -39,23 +39,23 @@
       "id": "mosfet",
       "nome": "MOSFETs",
       "tipo": "componentes",
-      "versao": 6,
-      "data": "2026-11-11",
-      "arquivo": "pacotes/mosfet-6.csv.gz",
-      "tamanho": 5567,
-      "sha256": "b0b0ee1a6b3771174f0b8fb3282133010423e4291fcaa7ade82f686197315632",
-      "componentes": 13
+      "versao": 7,
+      "data": "2026-11-12",
+      "arquivo": "pacotes/mosfet-7.csv.gz",
+      "tamanho": 6295,
+      "sha256": "f84e3658cb1042810f78ffa1d8994905e1546bb995f2ee58597bd28e1ea41bbe",
+      "componentes": 14
     },
     {
       "id": "passivo",
       "nome": "Componentes passivos",
       "tipo": "componentes",
-      "versao": 8,
+      "versao": 9,
       "data": "2026-11-12",
-      "arquivo": "pacotes/passivo-8.csv.gz",
-      "tamanho": 46079,
-      "sha256": "b6c290caab0c57bf4ccce84d73874d5a74dae50329ef5e463ca520944f28d745",
-      "componentes": 394,
+      "arquivo": "pacotes/passivo-9.csv.gz",
+      "tamanho": 61068,
+      "sha256": "4fcb7e0b556ae64c5914bdb877f8ee458ed362e6fe24512f585abf8796a14319",
+      "componentes": 604,
       "removidos": [
         {
           "codigo": "RTO020FR5000",
@@ -134,12 +134,12 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 5,
-      "data": "2026-11-10",
-      "arquivo": "pacotes/smd-5.csv.gz",
-      "tamanho": 10935,
-      "sha256": "ba5dc0fe179a85e7e70a5d6ab9d00301a80d3e4f2d2814bea8b709ddf78ad0b4",
-      "componentes": 35
+      "versao": 6,
+      "data": "2026-11-12",
+      "arquivo": "pacotes/smd-6.csv.gz",
+      "tamanho": 11504,
+      "sha256": "658f5042183d443ed4ae40c204e5db341353447e945326ed50b01fbb1671511e",
+      "componentes": 36
     },
     {
       "id": "tiristor",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 26,
+      "versao": 27,
       "data": "2026-11-12",
-      "arquivo": "pacotes/situacao_comercial-26.csv.gz",
-      "tamanho": 4364,
-      "sha256": "63dbf97d33775b4b58060d46810517839c97aa8abdaa1d16028b4d7490c58ac7",
-      "componentes": 964
+      "arquivo": "pacotes/situacao_comercial-27.csv.gz",
+      "tamanho": 5049,
+      "sha256": "b157e161753b6fd7eb35f735794bad98376147aa413c039e0e797e47f7f88bf0",
+      "componentes": 1178
     }
   ]
 }
