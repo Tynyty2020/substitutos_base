@@ -17,11 +17,11 @@
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 22,
+      "versao": 23,
       "data": "2026-11-12",
-      "arquivo": "pacotes/ci-22.csv.gz",
-      "tamanho": 44174,
-      "sha256": "4abdfb0ffe9a09d34465cbc84b090adbc8d4eea625cbc7991c594a8b0e75457b",
+      "arquivo": "pacotes/ci-23.csv.gz",
+      "tamanho": 44192,
+      "sha256": "8bd1edc6adc76aa05f8ed33d720447d48564622ede49061cd92bb27f5e8b347f",
       "componentes": 104
     },
     {
