@@ -6,12 +6,12 @@
       "id": "bjt",
       "nome": "Transistores BJT",
       "tipo": "componentes",
-      "versao": 11,
+      "versao": 12,
       "data": "2026-11-12",
-      "arquivo": "pacotes/bjt-11.csv.gz",
-      "tamanho": 15321,
-      "sha256": "b46f88e145428c55ca5ad783f4c369a8ef9263b91a636f5a1b89fbba27dd37e3",
-      "componentes": 45
+      "arquivo": "pacotes/bjt-12.csv.gz",
+      "tamanho": 19657,
+      "sha256": "c209ee75415396d41a151a071d0e658c130e2eed85f847077a73704ca08fb54d",
+      "componentes": 58
     },
     {
       "id": "ci",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 29,
+      "versao": 30,
       "data": "2026-11-12",
-      "arquivo": "pacotes/situacao_comercial-29.csv.gz",
-      "tamanho": 5111,
-      "sha256": "3f8818104ce603c999ab0715426171c33f9c90f3fca5864a70488be95ce13639",
-      "componentes": 1193
+      "arquivo": "pacotes/situacao_comercial-30.csv.gz",
+      "tamanho": 5181,
+      "sha256": "b95a90c0fafaad69c6ec47831595561547bbdd4ab0e4071a75c448dfd0fa6f12",
+      "componentes": 1206
     }
   ]
 }
