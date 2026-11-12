@@ -6,12 +6,12 @@
       "id": "bjt",
       "nome": "Transistores BJT",
       "tipo": "componentes",
-      "versao": 10,
+      "versao": 11,
       "data": "2026-11-12",
-      "arquivo": "pacotes/bjt-10.csv.gz",
-      "tamanho": 10433,
-      "sha256": "f64cb301fe79815d2ae52ed1c0c6432535b7fea2e17d6a2795dae57acf18bce6",
-      "componentes": 33
+      "arquivo": "pacotes/bjt-11.csv.gz",
+      "tamanho": 15321,
+      "sha256": "b46f88e145428c55ca5ad783f4c369a8ef9263b91a636f5a1b89fbba27dd37e3",
+      "componentes": 45
     },
     {
       "id": "ci",
@@ -134,12 +134,12 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 6,
+      "versao": 7,
       "data": "2026-11-12",
-      "arquivo": "pacotes/smd-6.csv.gz",
-      "tamanho": 11504,
-      "sha256": "658f5042183d443ed4ae40c204e5db341353447e945326ed50b01fbb1671511e",
-      "componentes": 36
+      "arquivo": "pacotes/smd-7.csv.gz",
+      "tamanho": 12350,
+      "sha256": "5ee5fbb7ced89529ec2495953693355489cd8e1516f173f934cfcdae38c9fa6f",
+      "componentes": 38
     },
     {
       "id": "tiristor",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 28,
+      "versao": 29,
       "data": "2026-11-12",
-      "arquivo": "pacotes/situacao_comercial-28.csv.gz",
-      "tamanho": 5061,
-      "sha256": "0f35bb1a2286e1bb3ec6547d435de12374ba5168eb43ac9903ff0c5863c57bec",
-      "componentes": 1179
+      "arquivo": "pacotes/situacao_comercial-29.csv.gz",
+      "tamanho": 5111,
+      "sha256": "3f8818104ce603c999ab0715426171c33f9c90f3fca5864a70488be95ce13639",
+      "componentes": 1193
     }
   ]
 }
