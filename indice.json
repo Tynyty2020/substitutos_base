@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "gerado_em": "2026-11-12",
+  "gerado_em": "2026-11-13",
   "pacotes": [
     {
       "id": "bjt",
@@ -17,12 +17,12 @@
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 25,
-      "data": "2026-11-12",
-      "arquivo": "pacotes/ci-25.csv.gz",
-      "tamanho": 46706,
-      "sha256": "98c29fe9ac5a0bda4175941b4d8bf4210b9b0b22a835e54e86fb1f7821a25776",
-      "componentes": 108
+      "versao": 26,
+      "data": "2026-11-13",
+      "arquivo": "pacotes/ci-26.csv.gz",
+      "tamanho": 51108,
+      "sha256": "1636dd0a1057da9e7a0fc9ee02f3ac16fe646e2cbc5c59f9e1b0e80501d0fb50",
+      "componentes": 115
     },
     {
       "id": "diodo",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 32,
-      "data": "2026-11-12",
-      "arquivo": "pacotes/situacao_comercial-32.csv.gz",
-      "tamanho": 5230,
-      "sha256": "bf9ed29f927c8d7f65f522c4b95e547a4ead9efca3e5d200e5d8e889f98aebff",
-      "componentes": 1218
+      "versao": 33,
+      "data": "2026-11-13",
+      "arquivo": "pacotes/situacao_comercial-33.csv.gz",
+      "tamanho": 5288,
+      "sha256": "cf40e78633c936a34feb57b65e16e09237adba4cf178beb6206c89eba4515e02",
+      "componentes": 1225
     }
   ]
 }
