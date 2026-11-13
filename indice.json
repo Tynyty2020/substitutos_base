@@ -17,12 +17,12 @@
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 27,
+      "versao": 28,
       "data": "2026-11-13",
-      "arquivo": "pacotes/ci-27.csv.gz",
-      "tamanho": 51897,
-      "sha256": "92e357fc557c0bce68e9931110517bcaf93dd9be7bee31e0debec2f085c13238",
-      "componentes": 117
+      "arquivo": "pacotes/ci-28.csv.gz",
+      "tamanho": 55531,
+      "sha256": "137c8c49e67883b6fa25739d0b5e67a228a41df001f1445279766402e5c001bd",
+      "componentes": 123
     },
     {
       "id": "diodo",
@@ -50,12 +50,12 @@
       "id": "passivo",
       "nome": "Componentes passivos",
       "tipo": "componentes",
-      "versao": 10,
-      "data": "2026-11-12",
-      "arquivo": "pacotes/passivo-10.csv.gz",
-      "tamanho": 65492,
-      "sha256": "edecf08ab1717ea1cec9ed5fc2b5db6a371b5cf7cf2c68e33b062c92c6031f12",
-      "componentes": 604,
+      "versao": 11,
+      "data": "2026-11-13",
+      "arquivo": "pacotes/passivo-11.csv.gz",
+      "tamanho": 66292,
+      "sha256": "fb7e4ee2ed79a2b504ede40533a9159cdab8bd77a7a9c5fc051ad1778307c7fc",
+      "componentes": 606,
       "removidos": [
         {
           "codigo": "RTO020FR5000",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 34,
+      "versao": 35,
       "data": "2026-11-13",
-      "arquivo": "pacotes/situacao_comercial-34.csv.gz",
-      "tamanho": 5295,
-      "sha256": "f062b9360e2dacbf4af129b8f327243bc7dc2914e54a14308a0f7d7e40913ab1",
-      "componentes": 1227
+      "arquivo": "pacotes/situacao_comercial-35.csv.gz",
+      "tamanho": 5350,
+      "sha256": "256812b46db0f2a61a5bac17fc563540bac24272ac04bc46777d71635d1431f9",
+      "componentes": 1235
     }
   ]
 }
