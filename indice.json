@@ -1,17 +1,17 @@
 {
   "formato": 1,
-  "gerado_em": "2026-11-13",
+  "gerado_em": "2026-11-14",
   "pacotes": [
     {
       "id": "bjt",
       "nome": "Transistores BJT",
       "tipo": "componentes",
-      "versao": 14,
-      "data": "2026-11-12",
-      "arquivo": "pacotes/bjt-14.csv.gz",
-      "tamanho": 23499,
-      "sha256": "92e0b04a50281fdffb19024582af73facc0580594aa98fc49cb715272d7627ae",
-      "componentes": 67
+      "versao": 15,
+      "data": "2026-11-14",
+      "arquivo": "pacotes/bjt-15.csv.gz",
+      "tamanho": 27939,
+      "sha256": "748d55fc30d7f33100bb09e9bcaa435ca6444fd5b30c8696c9846a904445b2ec",
+      "componentes": 78
     },
     {
       "id": "ci",
@@ -39,12 +39,12 @@
       "id": "mosfet",
       "nome": "MOSFETs",
       "tipo": "componentes",
-      "versao": 7,
-      "data": "2026-11-12",
-      "arquivo": "pacotes/mosfet-7.csv.gz",
-      "tamanho": 6295,
-      "sha256": "f84e3658cb1042810f78ffa1d8994905e1546bb995f2ee58597bd28e1ea41bbe",
-      "componentes": 14
+      "versao": 8,
+      "data": "2026-11-14",
+      "arquivo": "pacotes/mosfet-8.csv.gz",
+      "tamanho": 7375,
+      "sha256": "942ba21136f2ae12a7094ff494953e6c034d66adfe709c148c7cd0bf575500f6",
+      "componentes": 17
     },
     {
       "id": "passivo",
@@ -134,12 +134,12 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 7,
-      "data": "2026-11-12",
-      "arquivo": "pacotes/smd-7.csv.gz",
-      "tamanho": 12350,
-      "sha256": "5ee5fbb7ced89529ec2495953693355489cd8e1516f173f934cfcdae38c9fa6f",
-      "componentes": 38
+      "versao": 8,
+      "data": "2026-11-14",
+      "arquivo": "pacotes/smd-8.csv.gz",
+      "tamanho": 21408,
+      "sha256": "d65f22bc3ae44438cdf376432471970c2ba77e7b7eb474bd64452e2a9fc38635",
+      "componentes": 52
     },
     {
       "id": "tiristor",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 35,
-      "data": "2026-11-13",
-      "arquivo": "pacotes/situacao_comercial-35.csv.gz",
-      "tamanho": 5350,
-      "sha256": "256812b46db0f2a61a5bac17fc563540bac24272ac04bc46777d71635d1431f9",
-      "componentes": 1235
+      "versao": 36,
+      "data": "2026-11-14",
+      "arquivo": "pacotes/situacao_comercial-36.csv.gz",
+      "tamanho": 5503,
+      "sha256": "d1442a846ec93f003596b3fcf520f9fb6facd145d7dce752df26a497e1b2a7a1",
+      "componentes": 1263
     }
   ]
 }
