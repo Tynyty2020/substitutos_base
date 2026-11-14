@@ -50,12 +50,12 @@
       "id": "passivo",
       "nome": "Componentes passivos",
       "tipo": "componentes",
-      "versao": 11,
-      "data": "2026-11-13",
-      "arquivo": "pacotes/passivo-11.csv.gz",
-      "tamanho": 66292,
-      "sha256": "fb7e4ee2ed79a2b504ede40533a9159cdab8bd77a7a9c5fc051ad1778307c7fc",
-      "componentes": 606,
+      "versao": 12,
+      "data": "2026-11-14",
+      "arquivo": "pacotes/passivo-12.csv.gz",
+      "tamanho": 67755,
+      "sha256": "76d1646bf03279481a9b2b9514b7f2300d470ea8ff54b6d1042b880302c5b2b5",
+      "componentes": 610,
       "removidos": [
         {
           "codigo": "RTO020FR5000",
@@ -134,12 +134,12 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 8,
+      "versao": 9,
       "data": "2026-11-14",
-      "arquivo": "pacotes/smd-8.csv.gz",
-      "tamanho": 21408,
-      "sha256": "d65f22bc3ae44438cdf376432471970c2ba77e7b7eb474bd64452e2a9fc38635",
-      "componentes": 52
+      "arquivo": "pacotes/smd-9.csv.gz",
+      "tamanho": 22347,
+      "sha256": "2f862ed8ba53ad748598a541ef47c40be0ca7e078cb1f4979fcf1042da4f3b6c",
+      "componentes": 54
     },
     {
       "id": "tiristor",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 36,
+      "versao": 37,
       "data": "2026-11-14",
-      "arquivo": "pacotes/situacao_comercial-36.csv.gz",
-      "tamanho": 5503,
-      "sha256": "d1442a846ec93f003596b3fcf520f9fb6facd145d7dce752df26a497e1b2a7a1",
-      "componentes": 1263
+      "arquivo": "pacotes/situacao_comercial-37.csv.gz",
+      "tamanho": 5547,
+      "sha256": "7a14d8b7201533b23fd00210abba755d7071a650f03ccac59683fc58f6593ef6",
+      "componentes": 1269
     }
   ]
 }
