@@ -50,11 +50,11 @@
       "id": "passivo",
       "nome": "Componentes passivos",
       "tipo": "componentes",
-      "versao": 12,
+      "versao": 13,
       "data": "2026-11-14",
-      "arquivo": "pacotes/passivo-12.csv.gz",
-      "tamanho": 67755,
-      "sha256": "76d1646bf03279481a9b2b9514b7f2300d470ea8ff54b6d1042b880302c5b2b5",
+      "arquivo": "pacotes/passivo-13.csv.gz",
+      "tamanho": 67628,
+      "sha256": "a8d4d05c7f09e6fa349cea2a37fd9f5a4174db41f23b9f9391a916b646003238",
       "componentes": 610,
       "removidos": [
         {
