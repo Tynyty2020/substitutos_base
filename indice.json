@@ -17,23 +17,23 @@
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 35,
+      "versao": 36,
       "data": "2026-11-18",
-      "arquivo": "pacotes/ci-35.csv.gz",
-      "tamanho": 109386,
-      "sha256": "d2576bf6259780c642c93e3aadd7d6f257a88db25c8c48d4db0533a4a289415c",
-      "componentes": 281
+      "arquivo": "pacotes/ci-36.csv.gz",
+      "tamanho": 113890,
+      "sha256": "87c8e9c67ee654737ff632c6053fbfd7bd74426e248fc634c86a4567a119f73b",
+      "componentes": 300
     },
     {
       "id": "diodo",
       "nome": "Diodos",
       "tipo": "componentes",
-      "versao": 6,
-      "data": "2026-11-11",
-      "arquivo": "pacotes/diodo-6.csv.gz",
-      "tamanho": 34154,
-      "sha256": "f3a4b6f542d6b4459ecfd702568a775bba25fbad279ca48ec8aa63182d51cbf0",
-      "componentes": 287
+      "versao": 7,
+      "data": "2026-11-18",
+      "arquivo": "pacotes/diodo-7.csv.gz",
+      "tamanho": 35471,
+      "sha256": "386b310414587583726084cde2ccf8ff6e88291f2fad1763ac1f44d8a7ffc3d5",
+      "componentes": 294
     },
     {
       "id": "mosfet",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 50,
+      "versao": 51,
       "data": "2026-11-18",
-      "arquivo": "pacotes/situacao_comercial-50.csv.gz",
-      "tamanho": 6586,
-      "sha256": "ac86998adef5417439e6572be91f5551fce683a315b003bc429b3ed2aea65976",
-      "componentes": 1501
+      "arquivo": "pacotes/situacao_comercial-51.csv.gz",
+      "tamanho": 6690,
+      "sha256": "66ad13b0178c608c714cdd7dd4d6af012ec2fa8e3d7ca9c016840761cc3d01f2",
+      "componentes": 1527
     }
   ]
 }
