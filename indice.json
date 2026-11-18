@@ -50,12 +50,12 @@
       "id": "passivo",
       "nome": "Componentes passivos",
       "tipo": "componentes",
-      "versao": 13,
-      "data": "2026-11-14",
-      "arquivo": "pacotes/passivo-13.csv.gz",
-      "tamanho": 67628,
-      "sha256": "a8d4d05c7f09e6fa349cea2a37fd9f5a4174db41f23b9f9391a916b646003238",
-      "componentes": 610,
+      "versao": 14,
+      "data": "2026-11-18",
+      "arquivo": "pacotes/passivo-14.csv.gz",
+      "tamanho": 68995,
+      "sha256": "9edbd02d8cd00964e9999ecb5da68ec19ee0c51550175b816d6fefc8859c3c3f",
+      "componentes": 618,
       "removidos": [
         {
           "codigo": "RTO020FR5000",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 44,
+      "versao": 45,
       "data": "2026-11-18",
-      "arquivo": "pacotes/situacao_comercial-44.csv.gz",
-      "tamanho": 6011,
-      "sha256": "dc0c5954903e31b407f1d1b2985e125a2c66d2859b3093cd890920ccd59171f7",
-      "componentes": 1347
+      "arquivo": "pacotes/situacao_comercial-45.csv.gz",
+      "tamanho": 6063,
+      "sha256": "f0b960d655233ff8dd7c33bf8953e5c4445199958df66f7fe23fde2dd357b8ad",
+      "componentes": 1355
     }
   ]
 }
