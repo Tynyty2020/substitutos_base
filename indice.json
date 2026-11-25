@@ -39,12 +39,12 @@
       "id": "mosfet",
       "nome": "MOSFETs",
       "tipo": "componentes",
-      "versao": 9,
+      "versao": 10,
       "data": "2026-11-25",
-      "arquivo": "pacotes/mosfet-9.csv.gz",
-      "tamanho": 11177,
-      "sha256": "b78af2480db3ef115e9f12b4f92851efabf68ff0d11048ede7093b3ae1731eb1",
-      "componentes": 27
+      "arquivo": "pacotes/mosfet-10.csv.gz",
+      "tamanho": 14842,
+      "sha256": "822ec01ee01e6661a9c559e8b98f1875c5c03f81cd967b597cfc270c79365ba7",
+      "componentes": 37
     },
     {
       "id": "passivo",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 58,
+      "versao": 59,
       "data": "2026-11-25",
-      "arquivo": "pacotes/situacao_comercial-58.csv.gz",
-      "tamanho": 7075,
-      "sha256": "c9bc6c238e52599b122b43c2d1a5e9765730194f8b23bbc045d71024608b7437",
-      "componentes": 1618
+      "arquivo": "pacotes/situacao_comercial-59.csv.gz",
+      "tamanho": 7110,
+      "sha256": "bce4d8c4df5c6cb67a0d265370b4383837e10153a04daf0a98e75baa0a660906",
+      "componentes": 1628
     }
   ]
 }
