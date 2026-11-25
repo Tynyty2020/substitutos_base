@@ -17,12 +17,12 @@
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 40,
+      "versao": 41,
       "data": "2026-11-25",
-      "arquivo": "pacotes/ci-40.csv.gz",
-      "tamanho": 123218,
-      "sha256": "e7a86fc50d1cd377fa0521164a530b4c98efb757274f90edb25295a165e8c5b0",
-      "componentes": 328
+      "arquivo": "pacotes/ci-41.csv.gz",
+      "tamanho": 130459,
+      "sha256": "4919233cfc2442bb2b6bdda7941b7984fda32da780757b877f4353ef17683b1c",
+      "componentes": 352
     },
     {
       "id": "diodo",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 62,
+      "versao": 63,
       "data": "2026-11-25",
-      "arquivo": "pacotes/situacao_comercial-62.csv.gz",
-      "tamanho": 7239,
-      "sha256": "38c5f76348a7e8796e72a90a5ca9167859ff0a3b3002d02734fd57e80cd7c73a",
-      "componentes": 1659
+      "arquivo": "pacotes/situacao_comercial-63.csv.gz",
+      "tamanho": 7468,
+      "sha256": "7774cb4089668f741e27178ff581e3ffeacbe604e8c390e22be7b1f89c8a0316",
+      "componentes": 1683
     }
   ]
 }
