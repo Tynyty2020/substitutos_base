@@ -17,12 +17,12 @@
       "id": "ci",
       "nome": "Circuitos integrados",
       "tipo": "componentes",
-      "versao": 37,
-      "data": "2026-11-18",
-      "arquivo": "pacotes/ci-37.csv.gz",
-      "tamanho": 113919,
-      "sha256": "0441beeccebce2a4b4abf52c11cf7d6cee33c857fcef3cc623a47378bd77222e",
-      "componentes": 300
+      "versao": 38,
+      "data": "2026-11-25",
+      "arquivo": "pacotes/ci-38.csv.gz",
+      "tamanho": 116060,
+      "sha256": "efa50c4acde0d7ad31a8e5f5d7844ea3f14bb79b1a46fd0db4a8f89003c40002",
+      "componentes": 309
     },
     {
       "id": "diodo",
@@ -145,23 +145,23 @@
       "id": "tiristor",
       "nome": "TRIAC, SCR, IGBT e DIAC",
       "tipo": "componentes",
-      "versao": 6,
+      "versao": 7,
       "data": "2026-11-25",
-      "arquivo": "pacotes/tiristor-6.csv.gz",
-      "tamanho": 21448,
-      "sha256": "d7d80ca63afc6543741dd67293bab782efc73957afa3656f5c39df9e2c31d7ab",
-      "componentes": 73
+      "arquivo": "pacotes/tiristor-7.csv.gz",
+      "tamanho": 23648,
+      "sha256": "14af42549e1f78c33629608baf62cf6dd762f9809cb441d19754696f0ea9c2c3",
+      "componentes": 76
     },
     {
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 59,
+      "versao": 60,
       "data": "2026-11-25",
-      "arquivo": "pacotes/situacao_comercial-59.csv.gz",
-      "tamanho": 7110,
-      "sha256": "bce4d8c4df5c6cb67a0d265370b4383837e10153a04daf0a98e75baa0a660906",
-      "componentes": 1628
+      "arquivo": "pacotes/situacao_comercial-60.csv.gz",
+      "tamanho": 7151,
+      "sha256": "fdb3ef56b2f77265ab87118c061c9df7eb192b24b1760cb03863b9bf1b81eb8e",
+      "componentes": 1640
     }
   ]
 }
