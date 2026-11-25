@@ -134,34 +134,34 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 17,
+      "versao": 18,
       "data": "2026-11-25",
-      "arquivo": "pacotes/smd-17.csv.gz",
-      "tamanho": 38667,
-      "sha256": "0205f787266f4bce881be56777ae76959a0b489de1d0ab08dc80acd1778962d4",
-      "componentes": 105
+      "arquivo": "pacotes/smd-18.csv.gz",
+      "tamanho": 40297,
+      "sha256": "14618cb34dca65a2b068ed1f1e3c9c1c537d7f002d8461d112849216a0506e38",
+      "componentes": 111
     },
     {
       "id": "tiristor",
       "nome": "TRIAC, SCR, IGBT e DIAC",
       "tipo": "componentes",
-      "versao": 5,
-      "data": "2026-11-10",
-      "arquivo": "pacotes/tiristor-5.csv.gz",
-      "tamanho": 18886,
-      "sha256": "c77301ecc9c433f385eeb6db319b9f5d65124e1fc445c871a0847045bd12ffca",
-      "componentes": 68
+      "versao": 6,
+      "data": "2026-11-25",
+      "arquivo": "pacotes/tiristor-6.csv.gz",
+      "tamanho": 21448,
+      "sha256": "d7d80ca63afc6543741dd67293bab782efc73957afa3656f5c39df9e2c31d7ab",
+      "componentes": 73
     },
     {
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 57,
+      "versao": 58,
       "data": "2026-11-25",
-      "arquivo": "pacotes/situacao_comercial-57.csv.gz",
-      "tamanho": 7014,
-      "sha256": "e1a7e65c93a77185838f162c61b3e157635eda3d375fe53871abb9e2d6cf5309",
-      "componentes": 1607
+      "arquivo": "pacotes/situacao_comercial-58.csv.gz",
+      "tamanho": 7075,
+      "sha256": "c9bc6c238e52599b122b43c2d1a5e9765730194f8b23bbc045d71024608b7437",
+      "componentes": 1618
     }
   ]
 }
