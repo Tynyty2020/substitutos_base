@@ -134,12 +134,12 @@
       "id": "smd",
       "nome": "SMD (SOT-23 e SMA, com códigos de marcação)",
       "tipo": "componentes",
-      "versao": 24,
+      "versao": 25,
       "data": "2026-11-27",
-      "arquivo": "pacotes/smd-24.csv.gz",
-      "tamanho": 137014,
-      "sha256": "478dfbd3fa71b3dac10cd62db592281e3739d1a716a2aaf98c86fdc51b1a625e",
-      "componentes": 612
+      "arquivo": "pacotes/smd-25.csv.gz",
+      "tamanho": 150974,
+      "sha256": "a94f2abd8da3fac10b928332648fb9ca62a10ab60ac625dfcaedf721f63077fa",
+      "componentes": 714
     },
     {
       "id": "tiristor",
@@ -156,12 +156,12 @@
       "id": "situacao_comercial",
       "nome": "Situação comercial de todos os componentes",
       "tipo": "situacao_comercial",
-      "versao": 77,
+      "versao": 78,
       "data": "2026-11-27",
-      "arquivo": "pacotes/situacao_comercial-77.csv.gz",
-      "tamanho": 9904,
-      "sha256": "eeda69dafc11b4c262917546fcc402672d98077f3d9e73182e6dd718e1aec1cc",
-      "componentes": 2285
+      "arquivo": "pacotes/situacao_comercial-78.csv.gz",
+      "tamanho": 10243,
+      "sha256": "a1f4b1346b01ae87bb5495d6db29971118aa543cd5c39da302cbfb8edd5a928a",
+      "componentes": 2387
     }
   ]
 }
